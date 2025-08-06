@@ -1,0 +1,34 @@
+python built in modules are a set of imported modules that are already come pre-installed in python
+you can check the existing ones using help('modules')
+
+
+Advantages of built-in modules in Python
+Reduced Development Time
+Built-in modules in Python are made to perform various tasks that are used without installing external module or writing the lengthy code to perform that specific task. So, developers used them according to their convenience to save the time.
+
+Optimized Performance
+Some Python built-in modules are optimized for performance, using low-level code or native bindings to execute tasks efficiently.
+
+Reliability
+These modules have been rigorously tested and have been in use by the Python community for years. As a result, they are typically stable and have fewer bugs compared to new or less well-known third-party libraries.
+
+Consistency
+Python Built-in modules provide consistent way to solve problems. Developers familiar with these modules can easily understand and collaborate on codebases across different projects.
+
+Standardization
+As these modules are part of the Python Standard Library, they establish a standard way of performing tasks.
+
+Documentation
+Python's official documentation is comprehensive and includes detailed explanations and examples for Python built-in modules. This makes it easier to learn and utilize them.
+
+Maintainability
+Python Built-in modules are maintained by the core Python team and community, regular updates, bug fixes, and improvements are to be expected, ensuring long-term viability.
+
+Reduced Risk
+Using third-party libraries can introduce risks, like discontinued support or security vulnerabilities.
+
+Using Built-in Modules in Python
+We have learned what are built-in modules in Python and their advantage. Now, let's see the code example of built-in modules in Python and how we can use them in our Python code.
+
+JSON Module in Python
+"json" module in Python is used to encode and decode JSON data. JSON format is a widely used on the web to exchange the information. It is extremely useful for reading and writing data in the JSON format.
