@@ -1,1 +1,0 @@
-Due to how the jupyter notebook is designed, module must be reloaded whenever a new update is done to the module.
